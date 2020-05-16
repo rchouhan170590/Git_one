@@ -1,0 +1,5 @@
+1) git status     -- to get the status of files
+2) git add file_name    -- to add staging aear
+3) git rm --cached file_name  -- remove the file from staging area
+4) git add .     -- add everything to staging area
+5) git commit -m "massage"  -- commit the files (-m) flage for massage.
